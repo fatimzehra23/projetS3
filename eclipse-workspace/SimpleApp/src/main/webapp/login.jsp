@@ -20,7 +20,7 @@
         }
         body {
         font-family: Arial, sans-serif;
-        background-image: url("${pageContext.request.contextPath}/resources/baaaaackLogin.png"); /* Chemin de votre image */
+        background-image: url("${pageContext.request.contextPath}/resources/Baaack.png"); /* Chemin de votre image */
         background-size: 100%; /* Pour que l'image couvre toute la page */
         background-position: center; /* Pour centrer l'image */
         background-repeat: no-repeat; /* Pour éviter que l'image se répète */
