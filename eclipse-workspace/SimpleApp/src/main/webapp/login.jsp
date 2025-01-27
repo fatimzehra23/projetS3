@@ -20,7 +20,7 @@
         }
         body {
         font-family: Arial, sans-serif;
-        background-image: url("${pageContext.request.contextPath}/resources/Baaack(2).png"); /* Chemin de votre image */
+        background-image: url("${pageContext.request.contextPath}/resources/Baaack.png"); /* Chemin de votre image */
         background-size: 100%; /* Pour que l'image couvre toute la page */
         background-position: center; /* Pour centrer l'image */
         background-repeat: no-repeat; /* Pour éviter que l'image se répète */
@@ -36,7 +36,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             max-width: 400px; /* Réduit la largeur maximale */
             margin-left: 40px;
-            margin-top: 70px;
+            margin-top: 120px;
         }
 
         h2 {
@@ -50,7 +50,7 @@
         }
 
         input {
-            width: 100%;
+            width: 90%;
             padding: 10px;
             margin-top: 5px;
             border: 1px solid #ccc;
@@ -63,7 +63,7 @@
             padding: 10px;
             margin-top: 20px;
             font-size: 16px;
-            background-color: #2e9cdf;
+            background-color: #7018ee;
             color: white;
             border: none;
             border-radius: 4px;
