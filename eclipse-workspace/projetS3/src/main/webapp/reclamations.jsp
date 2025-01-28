@@ -22,12 +22,12 @@
 
         header img {
             width: 100%;
-            height: 160px;
+            height: 180px;
         }
 
         nav {
             background-color: #21949e;
-            padding: 1px;
+            padding: 0.4px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
         }
@@ -94,7 +94,7 @@
             border: none;
             border-radius: 5px;
             text-decoration: none;
-            background-color: #21949e;
+            background-color: #f5bc24;
             color: white;
             display: inline-block;
             margin: 20px 0;
@@ -176,7 +176,7 @@
                             <a href="reclamations?action=edit&idRecl=${reclamation.idRecl}" title="Modifier">
                                 <i class="fa fa-edit" style="color: #4CAF50;"></i>
                             </a>
-                            |
+                           
                             <a href="reclamations?action=delete&idRecl=${reclamation.idRecl}" title="Supprimer"
                                onclick="return confirm('Êtes-vous sûr de vouloir supprimer cette réclamation?');">
                                 <i class="fa fa-trash" style="color: #E74C3C;"></i>

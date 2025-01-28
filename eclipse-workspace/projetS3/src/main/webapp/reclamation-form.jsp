@@ -38,13 +38,13 @@
 
         header img {
             width: 100%;
-            height: 200px;
+            height: 190px;
         }
 
         /* Barre de navigation */
         nav {
             background-color: #21949e; /* Couleur turquoise */
-            padding: 10px 0;
+            padding: 14px 0;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
             width: 100%;

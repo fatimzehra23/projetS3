@@ -32,18 +32,18 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 150px;
+            height: 180px;
         }
 
         header img {
-            width: 92%;
-            height: 150px;
+            width: 100%;
+            height: 170px;
         }
 
         /* Barre de navigation */
         nav {
             background-color: #21949e; /* Couleur turquoise */
-            padding: 10px 0;
+            padding: 13px 0;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
         }
@@ -128,7 +128,7 @@
         }
 
         .btn-add {
-            background-color: #21949e;
+            background-color: #f5bc24;
             color: white;
             margin-left: 150px;
         }
